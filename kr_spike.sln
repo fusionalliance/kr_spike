@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kr_spike", "kr_spike\kr_spike.csproj", "{DCE7A0A7-F5DA-46A2-A381-D19D9C125EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE7A0A7-F5DA-46A2-A381-D19D9C125EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE7A0A7-F5DA-46A2-A381-D19D9C125EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE7A0A7-F5DA-46A2-A381-D19D9C125EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE7A0A7-F5DA-46A2-A381-D19D9C125EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {107E5799-40C1-4080-99EA-063FEDB9E7AE}
+	EndGlobalSection
+EndGlobal
